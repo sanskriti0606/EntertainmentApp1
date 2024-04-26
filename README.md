@@ -34,7 +34,6 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
 - [Live Site URL](https://entertainment-web-fhghnvpl0-aleksfedotov1.vercel.app/)
 
 ## My process
@@ -54,6 +53,4 @@ Users should be able to:
 
 MongoDB, authentication, authorization
 
-## Author
 
-- Frontend Mentor - [@aleksFedotov](https://www.frontendmentor.io/profile/aleksFedotov)
